@@ -35,4 +35,4 @@ A production-ready chat platform built with the **MERN stack** (MongoDB, Express
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/real-time-chat-app.git
+   git clone https://github.com/santani2611/Chat-Application.git
